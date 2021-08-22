@@ -27,3 +27,4 @@ git checkout otherbranch_name
 git merge branch_to_merge
 git push origin
 git clone
+git pull
