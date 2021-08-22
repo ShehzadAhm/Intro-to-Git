@@ -1,6 +1,6 @@
 # Intro-to-Git
 
-This repository has all (if not most) the Git commands to get going with Version control and collaboration.
+## This repository has all (if not most) the Git commands to get going with Version control and collaboration. 
 
 Here are the list of commands used:
 
